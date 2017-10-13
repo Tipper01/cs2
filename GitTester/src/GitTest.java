@@ -6,6 +6,7 @@ public class GitTest {
 		System.out.println("Another change.");
 		System.out.println("Yet another change.");
 		System.out.println("And another change.");
+		System.out.println("Final change?.");
 	}
 
 }
